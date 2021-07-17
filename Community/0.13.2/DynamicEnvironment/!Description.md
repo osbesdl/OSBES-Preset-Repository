@@ -1,0 +1,1 @@
+This preset gives the minecraft environment a more lively brightness.
