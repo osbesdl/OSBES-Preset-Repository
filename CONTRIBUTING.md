@@ -1,15 +1,15 @@
-Make sure to read all of these points before contributing your own packs.
+### Make sure to read these guidelines before contributing your own packs.
 
-If any of the points in this format are not followed, your pull request will be declined.
+### If any of the points in this format are not followed, your pull request <b>will</b> be declined.
 
-1. Make sure that your pack is contributed in the community folder
+1. Make sure that your pack is distributed in `.mcpack` format, not `.zip`
 
-2. Make sure that your pack is distributed in `.mcpack` format, not `.zip`
+2. Make sure that your pack file is named appropriately
 
-3. Make sure that your pack file is named appropriately
+3. Ensure that your pack works with the latest release of OSBES
 
-4. Make sure you've tested your pack with the latest **RELEASE** version of OSBES
+4. You **must** have a description and at least 2 screenshots for your pack showing what you changed
 
-5.  In your pull request, show detailed screenshots of most of the things you have changed
+5. Your descriptions must be truthful
 
-6. In your pull request, allow edits by maintainers
+6. Your pack must be original, and not something that has already been done by yourself or another submitter
