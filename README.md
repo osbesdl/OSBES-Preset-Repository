@@ -9,6 +9,6 @@ Presets contributed by community members like you! Feel free to share your own c
 Presets offered by the OSBES team that are actively supported through each update.
 
 ### Archive:
-These are packs that have either become obsolete through OSBES updates, or have been broken by OSBES updates and are no longer supported.
+These are packs that no longer work on the latest OSBES version *and* the latest MC version
 
-It is not recommended to download these packs, as they will more than likely not work.
+It is not recommended to download these presets, as they will more than likely not work.
