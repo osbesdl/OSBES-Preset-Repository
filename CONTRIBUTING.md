@@ -19,3 +19,5 @@
     a. Your preset's name must not include "OSBES" as the main part of the name, however you are allowed to use it to indicate that your preset is a port (For example, "Vanilla Normals Renewed for OSBES")
   
     b. Your preset must not be the same as or extremely similar to an existing preset
+
+8. Your preset must work with the OSBES version you are targeting
