@@ -1,3 +1,6 @@
-Changelog:
-- Osbes 0.14.0 compatibility
-- Improve sky and clouds
+Truthful v2.1 Update
+
+Changelog :
+- Better Lighting
+- Slightly Improve Clouds
+- Change fog distance
