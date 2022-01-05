@@ -12,4 +12,4 @@ Changes:
 - Sharper Shadows
   
 
-- -*Creator's Note: Merry Christmas!* (edited)
+- -*Creator's Note: Merry Christmas!*
